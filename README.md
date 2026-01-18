@@ -13,7 +13,7 @@ Each folder includes a small project, script, or practice exercise related to se
 ## Purpose
 I created this repo to track my learning and build a portfolio for future opportunities in cybersecurity.
 
-## 🛠️ Technologies I’ll be using
+## Technologies I’ll be using
 - Linux  
 - Python  
 - Networking basics  
